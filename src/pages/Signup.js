@@ -77,7 +77,7 @@ function Signup() {
                 fullWidth
                 color="primary"
               >
-                SignIn
+                SignUp
               </Button>
 
               {/* toggle to sing-up */}
